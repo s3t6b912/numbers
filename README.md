@@ -1,2 +1,2 @@
 # numbers
-numbers projects
+numbers project
